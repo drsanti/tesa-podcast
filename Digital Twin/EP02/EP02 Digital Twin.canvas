@@ -1,0 +1,443 @@
+{
+  "nodes": [
+    {
+      "id": "246b8cd782f8090c",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -220,
+      "y": -372,
+      "width": 1560,
+      "height": 2192,
+      "label": "Episode 2 - Guidelines & Demo"
+    },
+    {
+      "id": "419245da0dee2660",
+      "type": "text",
+      "text": "**Q1**\nในฐานะผู้ประกอบการ ถ้าเราต้องการจะใช้ Digital Twin ต้องเริ่มจากอะไรบ้าง",
+      "styleAttributes": {},
+      "x": -200,
+      "y": -280,
+      "width": 360,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "cd1a6c74fac55349",
+      "type": "text",
+      "text": "คีย์สำคัญที่ผู้บริหารต้องดำเนินการ\n1. Understand the Technology\n2. Build Human Resources and Expertise\n3. Develop a Strategy for Implementation\n4. Foster a Digital Culture\n5. Scale and Expand\n\n\n[[Implementing Digital Twin technology in an organization]]",
+      "styleAttributes": {},
+      "x": 700,
+      "y": -352,
+      "width": 620,
+      "height": 305,
+      "color": "4"
+    },
+    {
+      "id": "e0e78d6abb29702d",
+      "type": "text",
+      "text": "**Q2** (How)\nถ้าจะเริ่มสร้าง Digital Twin สำหรับ เครื่องจักรอุตสาหกรรม เช่น แขนกลเราจะเริ่มอย่างไรดี แล้วมีขั้นตอนอะไรบ้าง",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 80,
+      "width": 360,
+      "height": 220,
+      "color": "2"
+    },
+    {
+      "id": "6c8e656a9c852c26",
+      "type": "text",
+      "text": "ขั้นตอน/กระบวนการสำคัญของการสร้าง Digital Twin\n\n1. Define Objectives and Requirements\n2. Select Sensors and Data Sources\n3. Modeling the Physical Robot Arm\n4. Integrate the Virtual Model with Real-Time Data\n5. Develop Analytics and Feedback Systems\n\n[[Key steps to create Digital Twin]]\n",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 38,
+      "width": 620,
+      "height": 305,
+      "color": "2"
+    },
+    {
+      "id": "a81cebe64e429033",
+      "type": "text",
+      "text": "**A1**\nอธิบายในมุมเจ้าของกิจการ/ผู้บริหาร\n\n\n",
+      "styleAttributes": {},
+      "x": 260,
+      "y": -265,
+      "width": 340,
+      "height": 130,
+      "color": "4"
+    },
+    {
+      "id": "9979d9fa8dde80ac",
+      "type": "text",
+      "text": "ดึงเข้าภาคอุตสาหกรรม",
+      "styleAttributes": {},
+      "x": -170,
+      "y": -47,
+      "width": 300,
+      "height": 60,
+      "color": "#ffffff"
+    },
+    {
+      "id": "17ae039dbe1fbe1a",
+      "type": "text",
+      "text": "**Q3**\nในฐานะของคนที่ทำงานอยู่ในระดับการออกแบบและพัฒนาอุปกรณ์อิเล็กทรอนิกส์ Digital Twin เข้ามามีบทบาทมากน้อยแค่ไหน",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 580,
+      "width": 360,
+      "height": 240,
+      "color": "5"
+    },
+    {
+      "id": "88c348b5a8668afd",
+      "type": "text",
+      "text": "ดึงเข้าเรื่อง Wearable device ในมุม UX/UI",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 880,
+      "width": 360,
+      "height": 100,
+      "color": "#ffffff"
+    },
+    {
+      "id": "f5d1ac00eb1045de",
+      "type": "text",
+      "text": "ดึงเข้าสู่โลก Embedded, Semiconductor, Electronics, PCB",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 400,
+      "width": 360,
+      "height": 110,
+      "color": "#ffffff"
+    },
+    {
+      "id": "0853a574263d244a",
+      "type": "text",
+      "text": "**A2**\nเกริ่นถึง Industry 4.0 แล้วดึงให้เห็นความสำคัญของแขนกล เพื่อนำเข้าการยกตัวอย่าง\n\n\n",
+      "styleAttributes": {},
+      "x": 260,
+      "y": 98,
+      "width": 340,
+      "height": 184,
+      "color": "2"
+    },
+    {
+      "id": "104cf95415262307",
+      "type": "text",
+      "text": "อธิบายพร้อมตัวอย่าง\n\n1. 3D Modeling Tools\n2. Graphics Engines\n3. Physics Engines",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 1440,
+      "width": 620,
+      "height": 200,
+      "color": "5"
+    },
+    {
+      "id": "261ebbb1e3fc4e7a",
+      "type": "text",
+      "text": "**A4**\nอธิบายภาพรวมและขั้นตอนตั้งแต่ไอเดีย แนวคิด และขั้นตอนที่เกี่ยวข้อง",
+      "styleAttributes": {},
+      "x": 260,
+      "y": 1046,
+      "width": 340,
+      "height": 184,
+      "color": "6"
+    },
+    {
+      "id": "d15ed85bc8cad4f8",
+      "type": "text",
+      "text": "อธิบายพร้อมตัวอย่าง\n\n1. UI\n2. Animation\n3. Interaction\n4. Connectivity",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 1038,
+      "width": 620,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "2fb782b8eb018aa1",
+      "type": "text",
+      "text": "**Q4**\nถ้าอยากจะพัฒนา Smartwatch เรานำสามารถนำ Digital Twin มาใช้ในมุมไหนได้บ้าง",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 1050,
+      "width": 360,
+      "height": 180,
+      "color": "6"
+    },
+    {
+      "id": "1f5c7aef6e9cdd74",
+      "type": "text",
+      "text": "ดึงเข้าเรื่อง UI, 3D, VR, MR",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 1300,
+      "width": 360,
+      "height": 80,
+      "color": "#ffffff"
+    },
+    {
+      "id": "49081232e21cae91",
+      "type": "text",
+      "text": "อธิบายพร้อมตัวอย่าง\n\n1. ตัวอย่างการออกแบบ Product\n2. ตัวอย่างการออกแบบ PCB\n3. ตัวอย่างการจำลองการทำงาน",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 600,
+      "width": 620,
+      "height": 200,
+      "color": "5"
+    },
+    {
+      "id": "a79327ab8bf7c8f1",
+      "type": "text",
+      "text": "**A3**\nอธิบายมุมมองส่วนตัวยกตัวอย่างการออกแบบ product, PCB และ ทดสอบใช้งานก่อนสั่งผลิต นำเข้าสู่",
+      "styleAttributes": {},
+      "x": 260,
+      "y": 608,
+      "width": 340,
+      "height": 184,
+      "color": "5"
+    },
+    {
+      "id": "f138ecc6df0f6dbe",
+      "type": "text",
+      "text": "**A5**\nอธิบายขั้นตอนตอนต่าง ๆ เครื่องมือทที่ใช้ หลักการใช้งานเครื่องมือ",
+      "styleAttributes": {},
+      "x": 260,
+      "y": 1446,
+      "width": 340,
+      "height": 184,
+      "color": "5"
+    },
+    {
+      "id": "1f57978b14f2b873",
+      "type": "text",
+      "text": "**Q5**\nขั้นตอนการสร้าง UI แบบสามมิติ และ User InterAction มีขั้นตอนอะไรบ้าง",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 1450,
+      "width": 360,
+      "height": 180,
+      "color": "5"
+    },
+    {
+      "id": "296df0d377e3f11e",
+      "type": "text",
+      "text": "ชักนำให้ตอนถัดไป เกี่ยวกัับ IoT, Realtime data, etc.",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 1720,
+      "width": 360,
+      "height": 80,
+      "color": "#ffffff"
+    },
+    {
+      "id": "28c6cae5895d0782",
+      "type": "text",
+      "text": "EP03: Physics",
+      "styleAttributes": {},
+      "x": -177,
+      "y": 1900,
+      "width": 315,
+      "height": 60
+    },
+    {
+      "id": "6f8458a3f59882ab",
+      "type": "text",
+      "text": "EP04: Interactive",
+      "styleAttributes": {},
+      "x": -177,
+      "y": 2020,
+      "width": 315,
+      "height": 65
+    }
+  ],
+  "edges": [
+    {
+      "id": "2236eb8a1bc621e6",
+      "styleAttributes": {},
+      "fromNode": "419245da0dee2660",
+      "fromSide": "right",
+      "toNode": "a81cebe64e429033",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "83346e2df8d0c5b0",
+      "fromNode": "a81cebe64e429033",
+      "fromSide": "right",
+      "toNode": "cd1a6c74fac55349",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "efa482ac0620f90f",
+      "styleAttributes": {},
+      "fromNode": "e0e78d6abb29702d",
+      "fromSide": "right",
+      "toNode": "0853a574263d244a",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "ed20095f756405c4",
+      "styleAttributes": {},
+      "fromNode": "0853a574263d244a",
+      "fromSide": "right",
+      "toNode": "6c8e656a9c852c26",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "f6c22c2e3abb46c6",
+      "styleAttributes": {},
+      "fromNode": "419245da0dee2660",
+      "fromSide": "bottom",
+      "toNode": "9979d9fa8dde80ac",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "c2af1d4ecaaaecee",
+      "styleAttributes": {},
+      "fromNode": "9979d9fa8dde80ac",
+      "fromSide": "bottom",
+      "toNode": "e0e78d6abb29702d",
+      "toSide": "top",
+      "color": "#ffffff"
+    },
+    {
+      "id": "debc1088538fe1e0",
+      "styleAttributes": {},
+      "fromNode": "e0e78d6abb29702d",
+      "fromSide": "bottom",
+      "toNode": "f5d1ac00eb1045de",
+      "toSide": "top",
+      "color": "2"
+    },
+    {
+      "id": "0e62b9bfda8b2f00",
+      "styleAttributes": {},
+      "fromNode": "17ae039dbe1fbe1a",
+      "fromSide": "right",
+      "toNode": "a79327ab8bf7c8f1",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "06f30f150cf56dd4",
+      "styleAttributes": {},
+      "fromNode": "f5d1ac00eb1045de",
+      "fromSide": "bottom",
+      "toNode": "17ae039dbe1fbe1a",
+      "toSide": "top",
+      "color": "#ffffff"
+    },
+    {
+      "id": "af52eb24b2500bf3",
+      "styleAttributes": {},
+      "fromNode": "a79327ab8bf7c8f1",
+      "fromSide": "right",
+      "toNode": "49081232e21cae91",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "3fdfacdeb24e26ec",
+      "styleAttributes": {},
+      "fromNode": "2fb782b8eb018aa1",
+      "fromSide": "right",
+      "toNode": "261ebbb1e3fc4e7a",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "ecc27d2344911cf5",
+      "styleAttributes": {},
+      "fromNode": "261ebbb1e3fc4e7a",
+      "fromSide": "right",
+      "toNode": "d15ed85bc8cad4f8",
+      "toSide": "left",
+      "color": "6"
+    },
+    {
+      "id": "31994227e54b6eba",
+      "styleAttributes": {},
+      "fromNode": "17ae039dbe1fbe1a",
+      "fromSide": "bottom",
+      "toNode": "88c348b5a8668afd",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "c973108ee41d08ab",
+      "styleAttributes": {},
+      "fromNode": "88c348b5a8668afd",
+      "fromSide": "bottom",
+      "toNode": "2fb782b8eb018aa1",
+      "toSide": "top",
+      "color": "#ffffff"
+    },
+    {
+      "id": "99705534d548dadd",
+      "styleAttributes": {},
+      "fromNode": "2fb782b8eb018aa1",
+      "fromSide": "bottom",
+      "toNode": "1f5c7aef6e9cdd74",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "f926fb5662f424db",
+      "styleAttributes": {},
+      "fromNode": "1f57978b14f2b873",
+      "fromSide": "right",
+      "toNode": "f138ecc6df0f6dbe",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "f415e4613b0c4df7",
+      "styleAttributes": {},
+      "fromNode": "f138ecc6df0f6dbe",
+      "fromSide": "right",
+      "toNode": "104cf95415262307",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "f910632a1cbc4522",
+      "styleAttributes": {},
+      "fromNode": "1f5c7aef6e9cdd74",
+      "fromSide": "bottom",
+      "toNode": "1f57978b14f2b873",
+      "toSide": "top",
+      "color": "#ffffff"
+    },
+    {
+      "id": "55c4a74df99e1d7b",
+      "styleAttributes": {},
+      "fromNode": "1f57978b14f2b873",
+      "fromSide": "bottom",
+      "toNode": "296df0d377e3f11e",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "87945af217821dd5",
+      "styleAttributes": {},
+      "fromNode": "296df0d377e3f11e",
+      "fromSide": "bottom",
+      "toNode": "28c6cae5895d0782",
+      "toSide": "top"
+    },
+    {
+      "id": "de0885be9517d431",
+      "styleAttributes": {},
+      "fromNode": "28c6cae5895d0782",
+      "fromSide": "bottom",
+      "toNode": "6f8458a3f59882ab",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

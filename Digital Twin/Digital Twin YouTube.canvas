@@ -1,0 +1,146 @@
+{
+  "nodes": [
+    {
+      "id": "19d4496ce573afc4",
+      "type": "link",
+      "url": "https://www.youtube.com/watch?v=OAdqXZGUb70",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": -620,
+      "width": 640,
+      "height": 360
+    },
+    {
+      "id": "998e6f4dc7bc4403",
+      "type": "link",
+      "url": "https://www.youtube.com/watch?v=QgJNWaDM1vA",
+      "styleAttributes": {},
+      "x": -320,
+      "y": -620,
+      "width": 640,
+      "height": 360
+    },
+    {
+      "id": "5ac403f7f24e566a",
+      "type": "text",
+      "text": "Smart Hospital",
+      "styleAttributes": {},
+      "x": -320,
+      "y": -680,
+      "width": 300,
+      "height": 50
+    },
+    {
+      "id": "4f0922c623707a0b",
+      "type": "text",
+      "text": "Meet a Factory Digital Twin From Wistron",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": -680,
+      "width": 480,
+      "height": 50
+    },
+    {
+      "id": "3de805086ec4f25f",
+      "type": "link",
+      "url": "https://www.youtube.com/watch?v=ScmK-bKJ4MI",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -620,
+      "width": 640,
+      "height": 360
+    },
+    {
+      "id": "a46147a3496dd010",
+      "type": "text",
+      "text": " Azure Digital Twins demo | Creating replicas of real-world environments",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -710,
+      "width": 560,
+      "height": 80
+    },
+    {
+      "id": "db560e279e0932f4",
+      "type": "text",
+      "text": " How We Build Digital Twins",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": -195,
+      "width": 420,
+      "height": 50
+    },
+    {
+      "id": "3a87ffca49d109c4",
+      "type": "link",
+      "url": "https://www.youtube.com/watch?v=NGiNydrE8xU",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": -135,
+      "width": 640,
+      "height": 360
+    },
+    {
+      "id": "cefa841a02344450",
+      "type": "text",
+      "text": " Toyota Digital Twin",
+      "styleAttributes": {},
+      "x": -320,
+      "y": -200,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "c446aa408a158ca5",
+      "type": "link",
+      "url": "https://www.youtube.com/watch?v=1njkPtrE8xQ",
+      "styleAttributes": {},
+      "x": -320,
+      "y": -135,
+      "width": 640,
+      "height": 360
+    },
+    {
+      "id": "d6659f61c4f5bd3d",
+      "type": "link",
+      "url": "https://www.youtube.com/watch?v=soAjc8caTRw",
+      "styleAttributes": {},
+      "x": 340,
+      "y": -135,
+      "width": 640,
+      "height": 360
+    },
+    {
+      "id": "7ba75ab02c0730bf",
+      "type": "text",
+      "text": " Smart Cities Built by Digital Twins",
+      "styleAttributes": {},
+      "x": 340,
+      "y": -200,
+      "width": 480,
+      "height": 50
+    },
+    {
+      "id": "2116e418f662e288",
+      "type": "text",
+      "text": "## Model\n\n- Static data\n- Dynamic data\n- Real-time data",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": 320,
+      "width": 460,
+      "height": 200
+    },
+    {
+      "id": "16969317b9ad51b5",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -300,
+      "y": 440,
+      "width": 150,
+      "height": 50
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
